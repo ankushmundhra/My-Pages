@@ -1,0 +1,131 @@
+body
+{
+padding: 0;
+border:0;
+margin: 0;
+}
+#Bar 
+{
+	background:#45619D;
+	border-bottom: 1px solid #0053A6;
+	width: 100%;
+	height: 84px;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);               /* for shadows */
+}
+#logo 
+{
+	float: left;
+	height: 70px;
+	position: relative;
+	width: 160px;
+	color: white;
+	font-weight: bold;
+	font-size: 38px;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", "sans-serif";
+	padding-left: 180px;
+	padding-top: 28px;
+}
+#SignIN 
+{
+	float: right;
+	height: 68px;
+	position: relative;
+	top:5px;
+	padding: 9px 200px 4px 4px;
+	position: absolute;
+	right: 0;
+}
+.mainbody
+{
+	position:absolute;
+    left:0;
+    top:90px;
+    width:100%;
+    height:645px;
+}
+#intro1                        /* facebook helps you connect with the people in your life */
+{
+top:40px;
+left:180px;
+font-family:verdana;
+font-size:19px;
+color:#142170;
+height:75px;
+width:550px;
+}
+#intro2                  /* create an acc */
+{
+top:30px;
+left:750px;
+font-family:verdana;
+font-size:32px;
+color:black;
+width:500px;
+height:60px;
+font-weight: bold;
+}
+
+#img2
+{
+top:130px;
+left:160px;
+height:250px;
+width:550px;
+}
+#intro3                 /* its free and always will be */
+{
+top:86px;
+left:753px;
+font-family:verdana;
+font-size:18px;
+color:black;
+height:50px;
+width:300px;
+}
+#form
+{
+top:118px;
+left:744px;
+font-family:verdana;
+font-size:20px;
+color:#142170;
+width:450px;
+height:495px;
+}
+input
+{
+	height: 29px;
+	border-color: #BDC7D8;
+	border-width: 1px;
+	border-style: solid;
+}
+#mailbox
+{
+	height: 29px;
+	border-color: #BDC7D8;
+	border-width: 1px;
+	border-style: solid;
+	border-radius:4px/4px;
+	margin: 10px;
+}
+select
+{
+height:29px;
+}
+#bday
+{
+	padding-right: 8px;
+	margin-left: 10px;
+}
+option
+{
+	left:750px;
+}
+#cao                              /* By clicking Create an account, you agree to... */
+{
+	line-height: 12px;
+}
+#wdi
+{
+	line-height: 12px;
+}
