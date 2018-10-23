@@ -1,0 +1,102 @@
+
+@import url(http://db.onlinewebfonts.com/c/6d32b8e06f40fb7698cfb714b9e7975d?family=BillabongW00-Regular);
+
+
+#img
+{
+    position: relative;
+    padding-left: 310px;
+    padding-top: 70px;
+    padding-right:0px;
+    margin: 0px 0px 0px 0px; 
+}
+
+.mainbody
+{
+	position:absolute;
+    left:0;
+    top:50px;
+    width:100%;
+    height:645px;
+}
+
+#form
+{
+    width: 313px;
+	height: 470px;
+    top:0px;
+    left:710px;
+	border: 1px solid #EFEFEF;
+	background-color: #FFFFFF;
+}
+#form1
+{
+    width: 313px;
+    height: 55px;
+    top: 486px;
+    left:0px;
+    border: 1px solid #EFEFEF;
+    background-color: #FFFFFF;
+}
+#intro4
+{
+    float: right;
+    margin-top: 550px;
+    margin-right: 350px;
+    font-family: "proxima-nova1";
+    font-size: 13px;
+}
+
+#logo
+{
+	font-size: 38px;
+	font-family: "BillabongW00-Regular,Brush Script MT";
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+
+#intro1
+{
+    color: #999999;
+    font-family: "proxima-nova1";
+}
+#intro2
+{
+    color: #999999;
+    font-family: "proxima-nova1";
+    font-size: 13px;
+    padding-top: 11px;
+}
+#intro3
+{
+    padding-top: 15px;
+    font-size: 13px;
+    font-family: "proxima-nova1";
+}
+#or
+{
+    font-size: 13px;
+    color: #999999;
+    font-family: "proxima-nova1";
+    padding-top:14px; 
+    padding-bottom:14px;
+}
+input
+{
+    margin-bottom: 5px;
+}
+img
+{
+    height: 35px;
+    width: 130px;
+}
+#slides
+{
+    margin-top: 500px;
+    margin-left: 25px;
+}
+.s1
+{
+    height: 400px;
+    width: 200px;
+}
